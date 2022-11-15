@@ -1,0 +1,16 @@
+PODS:
+  - DDFramework (0.1.0)
+
+DEPENDENCIES:
+  - DDFramework (from `../`)
+
+EXTERNAL SOURCES:
+  DDFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDFramework: b728433357d70bf97e1dc1905c55fa6d2e9bab40
+
+PODFILE CHECKSUM: 6076ca9a8438569e66bf52dc0aa1ca9390b6f896
+
+COCOAPODS: 1.11.2
